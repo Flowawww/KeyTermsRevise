@@ -1,0 +1,3 @@
+([('keyTermsRevise',
+   '/Users/flora/Desktop/dist/keyTermsRevise',
+   'EXECUTABLE')],)
