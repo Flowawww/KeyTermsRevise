@@ -1,0 +1,511 @@
+Law of conservation of energy: energy cannot be created or destroyed, only transferred from one form into another, stored or dissipated. 
+
+Work done: energy transferred by an object
+
+Energy dissipation: energy wasted to the thermal stores of the environment
+
+Efficiency : how much useful energy an object released compared to the total amount of energy supplied to the object (the higher the efficiency, the more useful energy is transferred and the less energy is wasted)
+
+useful energy : energy transfers that are intended and needed for the object to function
+
+Wasted energy :any unwanted energy transfers that take place in an object
+
+Total energy : the total amount of energy supplied, or released, from an object including the useful and wasted energy transfers
+
+Open system : one where matter and energy are able to leave the system (e.g. A kettle releasing thermal energy to the environment)
+
+Closed system : one where matter and energy are unable to leave the system (e.g. The universe)
+
+Power : work done/rate of energy transfer in a given time
+
+Conduction :the process of transmitting heat through a material
+
+Specific heat capacity : the amount of energy needed to raise the temperature of 1kg of a substance by 1 degree Celsius 
+
+Insulator : an object that transmits energy at a low rate / an object that doesn't transmit energy at all
+
+Conductor :an object that transmits energy at a high rate
+
+Renewable energy : energy sources that will not run out, or can be used again
+
+Non-renewable energy  : energy sources that will run out and cannot be used again
+
+Internal energy : the total amount of kinetic and potential energy of particles. This links to its temperature, the more internal energy the higher the temperature of the object. 
+
+Current : rate of flow of electric charge
+
+Potential difference : the difference in charge between two points in a circuit
+	
+Power - work done/rate of energy transfer in a given time 
+	
+Resistance - anything that acts to slow the current in a circuit
+	
+Charge : a force particles experience in an electric field. This allows current to move
+	
+Static charge/Static electricity : a fore experienced when two charged objects are brought into contact. Like charges repel and opposite charges attract
+	
+Complete circuit : a circuit with no gaps so current is able to flow
+
+Incomplete circuit : a circuit with gaps that prevent current from flowing
+
+Ohmic conductor - the current through a component is directly proportional to the potential difference, providing temperature remains constant. (Current and potential difference increase at the same rate, AND the line begins at the origin of the graph)
+
+Diode : current is only allowed to flow in one direction 
+
+Thermistor :a circuit component that lowers the resistance in a circuit as temperature  increases 
+
+Light dependent resistor : a circuit component that lowers the resistance in a circuit as light intensity increases 
+
+Series circuit : a circuit where there is only one route for current to flow
+	
+Parallel circuit : a circuit where there are a choice of routes for the current to take
+
+Conductor : a material that allows an electric current to pass through (e.g. metal)
+
+Insulator : a material that prevents an electric current from passing through (e.g. plastic)
+
+Ammeter  : a device used to measure current
+
+Voltmeter : a device used to measure potential difference
+
+Live wire : a wire that carries the electrical current into a device
+
+Neutral wire : a wire that completes the circuit by connecting the device to the power station
+
+Earth wire : a wire for safety with a very low resistance used to carry current if the device becomes live (has an electric current passing through the case)
+
+Fuse : a wire designed to melt when the current goes above a set level to protect the device
+
+Circuit breaker : a switch that turn off automatically if the current gets too high. This can be reset by pushing a switch
+
+Efficiency : how much useful energy an object released compared to the total amount of energy supplied to the object (the higher the efficiency, the more useful energy is transferred and the less energy is wasted)
+
+Transformer :increases or decreases the potential difference at various points in the national grid for efficiency and safety.
+
+Step up transformer : increases the potential difference after a power station before travelling long distances along pylons and cables in national grid to increase efficiency by reducing heat loss
+
+Step down transformer : decreases the potential difference at before electricity enters homes or factories for safety.
+	
+Alternating current :a current that changes direction from positive to negative (the national grid)
+
+Direct current : a current that only flows in one direction, positive or negative (cells or batteries)
+
+Mass : the number of particles that make up an object
+
+Density : the mass per unit of volume
+
+Volume : the amount of space an object takes up
+
+Displacement/Eureka can : a piece of equpiment designed to measure the volume of an irregular shaped object by seeing the volume of water is displaces
+
+Vernier callipers : a device to measure the length of something to a high resolution
+
+State of matter :the arrangement of particles in an object (a solid, liquid or gas)
+	
+Change of state :the state of matter changes from one form to another due to an increase or decrease in energy supplied to it (melting, boiling, condensing, freezing or sublimation)
+
+
+Meniscus :a dip caused by the attraction of water molecules to the side of the container. Always measure from the bottom of this when taking a reading.
+
+Resolution  : the smallest measurement a piece of equpiment can take (a high resolution will give more decimal places)
+
+Law of conservation of energy: energy cannot be created or destroyed, only transferred from one form into another, stored or dissipated. 
+
+Work done: energy transferred by an object
+
+Energy dissipation: energy wasted to the thermal stores of the environment
+
+Efficiency : how much useful energy an object released compared to the total amount of energy supplied to the object (the higher the efficiency, the more useful energy is transferred and the less energy is wasted)
+
+useful energy : energy transfers that are intended and needed for the object to function
+
+Wasted energy :any unwanted energy transfers that take place in an object
+
+Total energy : the total amount of energy supplied, or released, from an object including the useful and wasted energy transfers
+
+Open system : one where matter and energy are able to leave the system (e.g. A kettle releasing thermal energy to the environment)
+
+Closed system : one where matter and energy are unable to leave the system (e.g. The universe)
+
+Power : work done/rate of energy transfer in a given time
+
+Conduction :the process of transmitting heat through a material
+
+Specific heat capacity : the amount of energy needed to raise the temperature of 1kg of a substance by 1 degree Celsius 
+
+Insulator : an object that transmits energy at a low rate / an object that doesn't transmit energy at all
+
+Conductor :an object that transmits energy at a high rate
+
+Renewable energy : energy sources that will not run out, or can be used again
+
+Non:renewable energy  : energy sources that will run out and cannot be used again
+
+Internal energy : the total amount of kinetic and potential energy of particles. This links to its temperature, the more internal energy the higher the temperature of the object. 
+
+Current : rate of flow of electric charge
+
+Potential difference : the difference in charge between two points in a circuit
+
+Power : work done/rate of energy transfer in a given time 
+
+Resistance : anything that acts to slow the current in a circuit
+
+Charge : a force particles experience in an electric field. This allows current to move
+
+Static charge/Static electricity : a fore experienced when two charged objects are brought into contact. Like charges repel and opposite charges attract
+
+Complete circuit : a circuit with no gaps so current is able to flow
+
+Incomplete circuit : a circuit with gaps that prevent current from flowing
+
+Ohmic conductor : the current through a component is directly proportional to the potential difference, providing temperature remains constant. (Current and potential difference increase at the same rate, AND the line begins at the origin of the graph)
+
+Diode : current is only allowed to flow in one direction 
+
+Thermistor :a circuit component that lowers the resistance in a circuit as temperature  increases 
+
+Light dependent resistor : a circuit component that lowers the resistance in a circuit as light intensity increases 
+
+Series circuit : a circuit where there is only one route for current to flow
+
+Parallel circuit : a circuit where there are a choice of routes for the current to take
+
+Conductor : a material that allows an electric current to pass through (e.g. metal)
+
+Insulator : a material that prevents an electric current from passing through (e.g. plastic)
+
+Ammeter  : a device used to measure current
+
+Voltmeter : a device used to measure potential difference
+
+Live wire : a wire that carries the electrical current into a device
+
+Neutral wire : a wire that completes the circuit by connecting the device to the power station
+
+Earth wire : a wire for safety with a very low resistance used to carry current if the device becomes live (has an electric current passing through the case)
+
+Fuse : a wire designed to melt when the current goes above a set level to protect the device
+
+Circuit breaker : a switch that turn off automatically if the current gets too high. This can be reset by pushing a switch
+
+Efficiency : how much useful energy an object released compared to the total amount of energy supplied to the object (the higher the efficiency, the more useful energy is transferred and the less energy is wasted)
+
+Transformer :increases or decreases the potential difference at various points in the national grid for efficiency and safety.
+
+Step up transformer : increases the potential difference after a power station before travelling long distances along pylons and cables in national grid to increase efficiency by reducing heat loss
+
+Step down transformer : decreases the potential difference at before electricity enters homes or factories for safety.
+
+Alternating current :a current that changes direction from positive to negative (the national grid)
+
+Direct current : a current that only flows in one direction, positive or negative (cells or batteries)
+
+Mass : the number of particles that make up an object
+
+Density : the mass per unit of volume
+
+Volume : the amount of space an object takes up
+
+Displacement/Eureka can : a piece of equpiment designed to measure the volume of an irregular shaped object by seeing the volume of water is displaces
+
+Vernier callipers : a device to measure the length of something to a high resolution
+
+State of matter :the arrangement of particles in an object (a solid, liquid or gas)
+
+Change of state :the state of matter changes from one form to another due to an increase or decrease in energy supplied to it (melting, boiling, condensing, freezing or sublimation)
+
+
+Meniscus :a dip caused by the attraction of water molecules to the side of the container. Always measure from the bottom of this when taking a reading.
+
+Resolution  : the smallest measurement a piece of equpiment can take (a high resolution will give more decimal places)
+
+Internal energy : the total amount of kinetic and potential energy of particles. This links to its temperature, the more internal energy the higher the temperature of the object.
+
+Melting point : the temperature at which a solid changes to a liquid
+
+Boiling point : the temperature at which a liquid changes to a gas
+
+Heating curve : a graph showing how the temperature of something changes as it is heated over time. Temperature does not change when the substance melts and boils.
+
+Cooling curve : a graph showing how the temperature of something changes as it is cooled over time. Temperature does not change when the substance condenses and freezes.
+
+Specific latent heat : the energy needed for a substance to change state. At this point the overall temperature does not change as energy is used to change the intermolecular bonding.
+
+Pressure : A force in a given area
+
+Atom : the building blocks of matter
+
+Nucleus : the centre of an atom, made of protons and neutrons
+
+Energy level/Energy shell : areas around the nucleus where electrons are found
+
+Proton : positive, with a mass of 1
+
+Neutron : neutral, with a mass of 1
+
+Electron : negative, with a negligible mass 
+
+Ion : a charged particle
+
+Ionisation  : the process of an atom becoming an ion
+
+Atomic number : the number of protons in an atom
+
+Mass number : the number of protons and neutrons in the nucleus of an atom
+
+Plum pudding model : an early model of the atom where it was believed the atoms was a ball of positive charge with negative electrons dotted inside 
+
+Rutherford model : an early model of the atom where it was discovered that it was mostly empty space with protons  found in a dense nucleus 
+
+Bohr model : a modern model of the atom with electrons orbiting the nucleus at fixed distances
+
+Alpha particle : a helium nucleus, made of two protons and two neutrons
+
+Beta radiation : a high speed electron emitted from the nucleus of an atom, formed when a neutron becomes and proton and electron to help stabilise the atom.
+
+Gamma radiation  : electromagnetic radiation given out from an atom to help stabilise it 
+
+Radioactive decay : the random breakdown of the nucleus of an atom, releasing energy or mass 
+
+Background radiation  : radiation experienced at all times, which can be from natural or man made sources 
+
+Half life : the time taken for 50% of the atoms in a sample to decay
+
+Irradiation : the process of exposing something to radiation. The object will not become radioactive
+
+Medical tracer : a way of using radiation to monitor the movement of fluids in a body (e.g. looking at blood flow to find clots)
+
+Nuclear fission : a large nuclei breaks down into two smaller nuclei, which often releases neutrons 
+
+Nuclear fusion  : two smaller nuclei fuse to form a larger nucleus. This happens in stars.
+
+
+
+Topic 5 : Forces
+
+Force : a push or pull
+
+Vector : has a magnitude and a direction 
+
+Scalar : has a magnitude only
+
+Speed : the distance travelled in a given time
+
+Velocity : speed in a given direction
+
+Distance : the amount an object has moved compared to its starting point
+
+Displacement : distance in a given direction
+
+Acceleration  : changing velocity 
+
+Resultant force : the overall force on an object when considering the action of all forces acting on an object
+
+Balanced force : opposite forces are equal, it produces no change in movement
+
+Unbalanced force : forces are not equal, this results in acceleration of an object
+
+Contact force : a force caused only when two objects are in contact (e.g. Friction and air resistance)
+
+Non:contact force : a force that acts even when objects are not in contact (e.g. Electrostatic force or magnetic force)
+
+Newton's first law : an object will continue it is current motion unless acted on by another force
+
+Newton's second law : F=ma
+
+Newton's third law : every action has an equal an opposite reaction
+
+Inertia : the tendency of an object to continue in its current state
+
+Weight  : the effect of gravity on mass
+
+Mass  : the amount of particles in an object
+
+Terminal velocity : the maximum velocity an object can reach in given conditions, assuming only weight and drag act on it.
+
+Drag : a force that acts to oppose the motion of an object through a fluid (water and air resistance) 
+
+Braking distance : the distance travelled once the brakes are applied to it stopping
+
+Thinking distance : the distance travelled while someone responds to a change and applies the brakes
+
+Stopping distance : the total distance travelled from the change to stopping, stopping distance = thinking distance + braking distance
+
+Momentum : the product of mass and velocity
+
+Conservation of momentum : the total amount of momentum before and after a collision are equal, providing no external forces act
+
+Moment : a turning force
+
+Centre of mass : the point at which the mass of an object appears to act from
+
+Gear : a toothed wheel that rotates on an axis. Gears can be used to pass a moment from one gear to another
+
+Lever : a force multipliers used to lift heavy objects by increasing the distance from the pivot.
+
+Pressure : force per unit of area
+
+Upthrust  : a force that pushes objects upwards in liquids due to pressure 
+
+Wave  : a way of transferring energy 
+
+Longitudinal wave  : the vibrations of the wave are parallel to the direction the wave moves in
+
+Transverse wave  : the vibrations of the wave are perpendicular to the direction the wave moves in
+
+Mechanical wave  : a type of wave the requires particles to move energy
+
+Time period  : the time taken for one complete wave to pass a point
+
+Amplitude  : the maximum displacement of a wave (measure from the equilibrium line to the peak of the wave)
+
+Frequency  : the number of waves that pass a point in a second
+
+Wavelength  : the distance between one point on a wave and the same point on the next wave (usually measure from peak to peak, or trough to trough) 
+
+Rarefraction  : areas on a longitudinal wave where the energy is more spread out
+
+Compression  : areas on a longitudinal wave where the energy is more concentrated
+
+Reflection  : the bouncing of a wave off a surface
+
+Refraction  : the slowing down of a wave as it passes between objects with different densities 
+
+Oscilloscope  : a piece of equpiment used to view sound waves
+
+Ripple tank  : a piece of equpiment used to measure the wavelength and frequency of water waves
+
+Electromagnetic spectrum  : a continuous range of transverse waves that travel at the same speed through a vacuum. They have a range of different wavelengths and frequencies. 
+
+S wave  : a transverse wave produced in an Earthquake that travels slower and is unable to pass through solids 
+
+P wave   : a longitudinal wave produced in an Earthquake that travels faster and is able to pass through solids 
+
+Seismic wave  : types of wave produced in an Earthquake
+
+Ultrasound  : a high frequency sound waves outside the audible range for humans 
+
+Echo  : a reflected sound wave
+
+Transparent  : all light is able to be transmitted through
+
+Translucent  : some light is able to be transmitted through 
+
+Opaque  : no light is able to be transmitted through 
+
+Filter  : a translucent object designed to only let the colour of the filter pass through and absorbs all other colours of light
+
+Virtual image  : an image formed on the same side of the lens as the object. They cannot be projected onto a screen
+
+Real image  : an image formed on the opposite side of the lens to the object. They can be projected onto a screen
+
+Magnified  : an image produced by a lens that appears to be larger than it is in reality 
+
+Diminished  : an image produced by a lens that appears to be smaller than it is in reality 
+
+Upright  : an image produced by a lens that is the same way up as it is in reality 
+
+Inverted   : an image produced by a lens that is the opposite way up compared to how it is in reality 
+
+Principle axis  : a reference point used to show a ray of light passing through the horizontal centre of a lens 
+
+Focal point  : the point where rays of light converge after passing through a lens
+
+Focal length  : the distance between the optical centre and the focal point
+
+Optical centre   : a reference line drawn through the vertical centre of a lens
+
+Audible range   : the range of frequencies of sound that humans can detect, between 20Hz and 20,000Hz
+
+Magnetic field   : a invisible region around a magnet that magnetic materials can respond to
+
+ Permanent magnet   : an object that can produce its own magnetic field lines. They can attract or repel other permanent magnets
+
+ Induced magnet   : a material that can respond to a magnetic field, but will not produce its own magnetic field in the absence of a permanent magnet 
+
+ Magnetic material   : a material that can respond to a magnetic field
+
+Electromagnet   : a magnetic field is induced when a current is passed through a wire
+
+Fleming's left hand rule   : a way to find the direction of the current, magnetic field or the movement of an object by holding your thumb, first finger and second finger of your left hand at right angles to one another.
+
+The motor effect   : an effect seen when a current carrying wire is placed into a magnetic field, causing a force
+
+The generator effect   : an effect seen when a wire is moved around a magnetic field, which induces a potential difference in the wire
+
+ Split ring commutator   : a device the changes the direction of the current every half turn of a coil to keep the current generated in the same direction
+
+ Magnetic flux density    : the density of magneitc field lines around a magnet. The higher the magnetic flux density, the more magnetic field lines present and the stronger the magnet. 
+
+ Transformer   : increases or decreases the potential difference at various points in the national grid for efficiency and safety. 
+
+Step up transformer : increases the potential difference after a power station before travelling long distances along pylons and cables in national grid to increase efficiency by reducing heat loss. It has more turns in the secondary coil compared to the primary coil
+
+Step down transformer : decreases the potential difference at before electricity enters homes or factories for safety. It has less turns in the secondary coil compared to the primary coil
+
+ Nebula   : a cloud of dust and gas in space
+
+ Protostar   : an early form of a star, which is hot and dense by had not ignited so gravity is the only force acting
+
+ Main sequence star   : a star formed when it ignites and fusion can occur. Fusional forces and gravitational force balance so the star remains a constant size
+
+Red giant   : formed when hydrogen runs out and fusional forces are greater than gravitational forces, causing the star to expand outwards and begin to cool
+
+White dwarf   : formed when the star has run out of fuel and there are no fusional forces acting. It contracts and cools. It is the end of the stars lifecycle.
+
+Red supergiant   : formed  from large main sequence stars when hydrogen runs out and fusional forces are greater than gravitational forces, causing the star to expand outwards and begin to cool. They are much larger than red giants.
+
+Supernova   : fusional forces become so great the star explodes and scatters particles across the universe. Elements larger than iron are formed here.
+
+Neutron star   : the remains of a star after a supernova
+
+Black hole   : the remains of a star after a very large supernova
+
+Satellite   : an object that orbits a celestial body
+
+Orbit   : the path an object takes around a celestial body
+
+Centripetal force   : a force that keeps objects moving in a circle around another object, caused when gravitational forces and velocity act at right angles 
+
+Redshift   : the change in wavelengths of light absorption spectra observed from distant stars towards the red end of the light spectrum, showing they are moving away from the observer 
+
+Doppler effect   : the apparent change in the frequency of a wave as it moves towards or away from an observer
+
+Dark energy   : energy that is thought to exist due to the acceleration of galaxies being greater than expected. It cannot be measured
+
+Dark matter   : mass that is thought to exist due to galaxies rotating faster than they should for their observable size. It cannot be measured
+
+The big bang theory     : a theory for how the universe began as a single, hot, and dense point that exploded outwards.
+
+Geostationary orbit   : the orbit of the satellite occurs at the same rate as the rotation of the planet, meaning the satellite is always found in the same location above the planet. GPS is an example of this on Earth
+
+Polar orbit   : the satellite orbits over the poles of the planet and is not always found in the same location above the planet. Weather satellites are an example of this.
+
+
+Independent variable  : the variable you are changing in an experiment
+
+Dependent variable  : the variable you are measuring in an experiment
+
+Control variable  : any variables that must be kept the same in an experiment to make it valid (so you test what you intend to test)
+
+Accurate  : a value that is close to the true value (e.g. measuring water boiling at 101 degrees Celsius is accurate, measuring water boiling at 250 degrees Celsius is not accurate)
+
+Resolution  : the smallest thing a piece of equpiment can measure (e.g. a scale that measures the mass of a cube at 6.05g has a resolution of 0.01g as this is the smallest thing it can measure)
+
+Reproducible  : another person repeats your experiment and gets similar results
+
+Repeatable  : you repeat your experiment again and get similar results
+
+Reliable  : the experiment is both reproducible and repeatable
+
+Valid  : you test what you intend to test, an experiment can only be valid with control variables (e.g. If you change the spring and the mass and measure the extension, you cannot be sure if it was the spring or the change in mass that changed the extension of the spring so this isn't valid)
+
+Error  : a mistake in the values measured
+
+Systemic error  : a mistake that happens to all readings taken in the same direction (e.g. they are all bigger or all smaller than they are supposed to be). They cannot be overcome by repeating the experiment
+
+Random error  : a one off mistake in an experiment leading to an anomalous result that doesn't fit the pattern of the others. They can be overcome by repeating and should be excluded when analysing data to give a more accurate result.
+
+Zero error  : a mistake caused by a piece of equpiment giving a reading when it should read zero (e.g. scales showing 6g before you place anything on them). They can be overcome by subtracting the zero error from each result, or recalibrating the piece of equpiment.
+

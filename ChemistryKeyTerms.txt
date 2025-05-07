@@ -1,0 +1,542 @@
+Accurate: A measurement is considered accurate if it is judged to be close to the true value.
+
+Acid: when dissolved in water, its solution has a pH value less than 7. Acids are proton (H+ ion) donors.
+
+Activation energy: The minimum energy needed for a reaction to take place
+
+Alkali metal: Elements in Group 1 of the periodic table.
+
+Alkali: Its solution has a pH value more than 7.
+
+Alkane: Saturated hydrocarbon with the
+general formula C,H,,,.,.for example,
+methane, ethane, and propane.
+
+Alkene: Unsaturated hydrocarbon which
+contains a carbon-carbon double
+bond, Its general formula is C,H,,, for
+example, ethene, C,H,
+
+Alloy: A mixture of two or more elements,
+at least one of which is a metal.
+
+Anhydrous: Describes a substance that
+does not contain water.
+
+Anode: The positive electrode in
+electrolysis.
+
+Anomalies Results: that do not match
+the pattern seen in the other data
+collected or are well outside the range
+of other repeat readings (outliers).
+
+Aqueous solution: The mixture
+made by adding a soluble substance
+to water.
+
+Atmosphere: The relatively thin layer of
+gases that surround planet Earth.
+
+Atom: The smallest part of an element
+that can still be recognised as that
+element.
+
+Atom economy: A measure of the
+amount of starting materials that end
+up as useful products.
+
+Atomic number: The number of
+protons (which equals the number of
+electrons) in an atom. It is sometimes
+called the proton number.
+
+Avagadro constant: The number of
+atoms, molecules, or ions in a mole of
+any substance (i.e, 6.02 x 10” per mol).
+
+Balanced symbol equation: A symbol
+equation in which there are equal
+numbers of each type of atom on
+either side of the equation.
+
+Base: The oxide, hydroxide, or carbonate
+of a metal that will react with an acid,
+forming a salt as one of the products.
+(If a base dissolves in water it is called
+an alkali), Bases are proton (H+ ion)
+acceptors.
+
+Biodegradable: Materials that can be
+broken down by microorganisms.
+Biofuel Fuel made from animal or plant products.
+
+Blast furnace: The huge reaction vessels
+used in industry to extract iron from
+its ore.
+
+Bond energy: The energy required to
+break a specific chemical bond.
+
+Burette: A long glass tube with a tap
+at one end and markings to show
+volumes of liquid; used to add
+precisely known volumes of liquids to
+a solution in a conical flask below it.
+
+Bronze: Alloy with copper and tin.
+
+Carbon footprint: The total amount of
+carbon dioxide and other greenhouse
+gases emitted over the full life cycle of
+a product, service or event.
+
+Carbon steel: Alloy of iron containing
+controlled, small amounts of carbon.
+
+Categoric variable: Variables that have values that are labels. For
+example types of material.
+
+Catalyst: A substance that speeds up
+a chemical reaction by providing a
+different pathway for the reaction that
+has a lower activation energy. The
+catalyst is chemically unchanged at
+the end of the reaction.
+
+Catalytic converter: Fitted to exhausts
+of vehicles to reduce pollutants
+released.
+
+Cathode: The negative electrode in
+electrolysis.
+
+Ceramics: Materials made by heating
+clay, or other compounds, to high
+temperatures (called firing) to make hard, but often brittle, materials, which make excellent electrical insulators.
+
+Chromatography: The process whereby
+small amounts of dissolved substances
+are separated by running a solvent
+along a material such as absorbent
+paper.
+
+Climate change: The change in global
+weather patterns that could be caused
+by excess levels of greenhouse gases
+in the atmosphere.
+
+Closed system: A system in which no
+matter enters or leaves.
+
+Collision theory: An explanation of
+chemical reactions in terms of reacting
+particles colliding with sufficient
+energy for a reaction to take place.
+
+Composite: Materials made of two or
+more different materials, containing
+a matrix or binder surrounding and
+binding together fibres or fragments
+of another material which acts as the
+reinforcement.
+
+Compound: A substance made when
+two or more elements are chemically
+bonded together.
+
+Continuous variable: Can have values
+(called a quantity) that can be given
+by measurement (for example, mass,
+volume, temperature, etc.).
+
+Continuous data: Data that can take any
+value.
+
+Control group: If an experiment is to
+determine the effect of changing
+a single variable, a control is often
+set up in which the independent
+variable is not changed, thus enabling
+a comparison to be made. If the
+investigation is of the survey type a
+control group is usually established to
+serve the same purpose.
+
+Control variable: A variable which
+may, in addition to the independent
+variable, affect the outcome of the
+investigation and therefore has to be
+kept constant or at least monitored
+
+Covalent bond: The bond between two
+atoms that share one or more pairs of
+electrons.
+
+Covalent bonding: The attraction
+between two atoms that share one or
+more pairs of electrons.
+
+Cracking: The reaction used in the
+oil industry to break down large
+hydrocarbons into smaller, more
+useful ones.
+
+Data: Information, either qualitative or
+quantitative, that has been collected.
+
+Delocalised electron: Bonding electron
+that is no longer associated with any
+‘one particular atom.
+
+Dependent variable: The variable for
+which the value is measured for each
+and every change in the independent
+variable.
+
+Diffusion: The automatic mixing of
+liquids and gases as a result of the
+random motion of their particles.
+
+Directly proportional: A relationship
+that, when drawn on a line graph,
+shows a positive linear relationship
+that crosses through the origin.
+
+Discrete data: Data that can only take
+certain values.
+
+Displacement reaction: A reaction in
+which a more reactive element takes
+the place of a less reactive element in
+‘one of its compounds or in solution.
+
+Distillation: Separation of a liquid from
+a mixture by evaporation followed by
+condensation.
+
+Dot and cross diagram: A drawing to
+show only the arrangement of the outer
+shell electrons of the atoms or ions in a
+substance.
+
+DNA (deoxyribonucleic acid): A large
+organic molecule that encodes genetic
+instructions for the development and
+functioning of living organisms and
+viruses.
+
+Double bond: A covalent bond
+made by the sharing of two pairs of
+electrons.
+
+Electrical (chemical) cells: Contain
+chemicals that react to produce
+electricity.
+
+Electrolysis: The breakdown of a substance
+containing ions by electricity.
+
+Electrolyte: A liquid, containing free-
+moving ions, which is broken down by
+electricity in the process of electrolysis.
+
+Electron: A tiny particle with a negative
+charge. Orbit the nucleus of
+atoms or ions in shells.
+
+Electronic structure: A set of numbers
+to show the arrangement of electrons
+in their shells (or energy levels).
+
+Element: A substance made up of only
+‘one type of atom. An element cannot
+be broken down chemically into any
+simpler substance.
+
+End point: The point in a titration where
+the reaction is complete and titration
+should stop.
+
+Endothermic: A reaction that takes in
+energy from the surroundings,
+
+Equilibrium: The point in a reversible
+reaction at which the forward and
+backward rates of reaction are the
+same. Therefore, the amounts of
+substances present in the reacting
+mixture remain constant.
+
+Exothermic: A reaction that transfers
+energy to the surroundings.
+
+Fair test: A fair test is one in which only the
+independent variable has been allowed
+to affect the dependent variable.
+
+Fermentation: The reaction in which the
+enzymes in yeast turn glucose into
+ethanol and carbon dioxide.
+
+Filtration: The technique used to
+separate substances that are insoluble
+in a particular solvent from those that
+are soluble.
+
+Flame emission spectroscopy: A
+method of instrumental analysis in
+which the light given off when a
+sample is placed in a flame produces
+characteristic line spectra to identify
+and measure the concentration of
+metal ions in the sample.
+
+Flammable: Easily ignited and capable of
+burning rapidly.
+
+Formulation: a mixture that has been
+designed as a useful product.
+
+Fraction: Hydrocarbons with similar
+boiling points separated from
+crude oil
+
+Fractional distillation: A way to
+separate liquids from a mixture of
+liquids by boiling off the substances
+at different temperatures, then
+condensing and collecting the
+liquids.
+
+Fuel cells: Sources of electricity that are
+supplied by an external source of fuel.
+
+Fullerene: Form of the element carbon
+that can exist as large cage-like
+structures, based on hexagonal rings of
+carbon atoms.
+
+Functional group: An atom or group of
+atoms that give organic compounds
+their characteristic reactions.
+
+Galvanized: Iron or steel objects that
+have been protected from rusting
+by a thin layer of zinc metal at their
+surface.
+
+Giant covalent structure: A huge 3D
+network of covalently bonded atoms.
+
+Giant lattice: A huge 3D network of
+atoms or ions.
+
+Giant structure: See Giant lattice.
+
+Gradient: A measure of the slope of a
+straight line on a graph.
+
+Group: All the elements in the columns
+(labelled 1 to 7 and 0) in the periodic
+table.
+
+Half equation: An equation that
+describes reduction (gain of electrons)
+or oxidation (loss of electrons).
+
+Halogens: The elements found in
+Group 7 of the periodic table.
+
+Hazard: A hazard is something (eg. an
+object, a property of a substance or an
+activity) that can cause harm.
+
+Homologous series: A group of related
+organic compounds that have the
+same functional group.
+
+Hydrated: Describes a substance that
+contains water in its crystals.
+
+Hydrocarbon: A compound containing
+only hydrogen and carbon.
+
+Hypothesis: A proposal intended to
+explain certain facts or observations.
+
+Incomplete combustion: When a
+fuel burns in insufficient oxygen,
+producing carbon monoxide as a toxic
+product.
+
+Independent variable: The variable for
+which values are changed or selected
+by the investigator.
+
+Inert: Unreactive.
+
+Intermolecular force: The attraction
+between the individual molecules in a
+covalently bonded substance.
+
+Ion: A charged particle produced by the
+loss or gain of electrons.
+
+Ionic bond: The electrostatic force of
+attraction between positively and
+negatively charged ions.
+
+Ionic equation: An equation that shows
+only those ions or atoms that change
+in a chemical reaction.
+
+Isotope: Atoms that have the same
+number of protons but different
+number of neutrons, i.e. they have the
+same atomic number but different
+mass numbers.
+
+Law of the conservation of energy: The
+total mass of the products formed in
+a reaction is equal to the total mass of
+the reactants.
+
+Le Chatelier’s Principle: When a change
+in conditions is introduced to a
+system at equilibrium, the position of
+equilibrium shifts so as to cancel out
+the change.
+
+Life cycle assessment: Carried out to
+assess the environmental impact of
+products, processes or services at
+different stages in their life cycle.
+
+Line graph: Used when both variables
+are continuous, The line should
+normally be a line of best fit, and may
+be straight or a smooth curve.
+
+Line of best fit: A straight line that
+represents the general trend of data. An
+equal number of data points should be
+above and below the line of best fit.
+
+Mass number: The number of protons
+plus neutrons in the nucleus of
+an atom.
+
+Mean: The arithmetical average of a
+series of numbers.
+
+Mixture: When some elements or
+compounds are mixed together and
+intermingle but do not react together
+(ie. no new substance is made).
+A mixture is not a pure substance.
+
+Mole: The amount of substance in the
+relative atomic or formula mass of a
+substance in grams.
+
+Molecular formula: The chemical formula
+that shows the actual numbers of atoms
+in a particular molecule.
+
+Monomers: Small reactive molecules
+that react together in repeating
+sequences to forma very large
+molecule (a polymer).
+
+Nanoscience: The study of very tiny
+particles or structures between 1 and
+100 nanometres in size — where
+I nanometre = 10° metres.
+
+Neutral: A solution with a pH value of
+7 which is neither acidic nor alkaline.
+Alternatively, something that carries
+no overall electrical charge.
+
+Neutralisation: The chemical reaction
+of an acid with a base in which a salt
+and water are formed. If the base is
+a carbonate or hydrogen carbonate,
+carbon dioxide is also produced in the
+reaction.
+
+Neutron: A dense particle found in the
+nucleus of an atom. It is electrically
+neutral, carrying no charge.
+
+Noble gas: The very unreactive gases
+found in Group 0 of the periodic table.
+Their atoms have very stable electronic
+structures.
+
+Non-renewable: Something which
+cannot be replaced once it is used up.
+
+Nucleus: The very small
+and dense central part of an atom that
+contains protons and neutrons.
+
+Order of magnitude: A comparison
+of the size of values. Two values are
+the same order of magnitude if their
+difference in size is small in comparison
+to other values being compared.
+
+Ore: rock which contains enough
+metal to make it economically
+worthwhile to extract the metal.
+
+Oxidation: The reaction when oxygen
+is added to a substance / or when
+electrons are lost.
+
+Oxidised: Describes a substance that has
+had oxygen added to it / or has lost
+electrons.
+
+Particulate: Small solid particle given
+off from motor vehicles as a result of
+incomplete combustion of its fuel.
+
+Percentage yield: The actual mass
+of product collected in a reaction
+divided by the maximum mass that
+could have been formed in theory,
+multiplied by 100.
+
+Periodic table: An arrangement of
+elements in the order of their atomic
+numbers, forming groups and
+periods.
+
+pH number: which shows how strongly
+acidic or alkaline a solution is.
+
+Pipette: A glass tube used to measure
+accurate volumes of liquids.
+
+Polymer: A substance made from very
+large molecules made up of many
+repeating units.
+
+Precipitate: An insoluble solid formed by
+a reaction taking place in solution.
+
+Precise: A precise measurement is one in
+which there is very little spread about
+the mean value. Precision depends
+only on the extent of random errors. 
+it gives no indication of how close
+results are to the true (accurate) value.
+
+Prediction: A forecast or statement about
+the way something will happen in the
+future.
+
+Pure: unadulterated, in its natural state
